@@ -19,6 +19,8 @@
 
 </div>
 
+*Note: My fork attempts to lower package target version to iOS 14*
+
 WhisperKit is a Swift package that integrates OpenAI's popular [Whisper](https://github.com/openai/whisper) speech recognition model with Apple's CoreML framework for efficient, local inference on Apple devices.
 
 Check out the demo app on [TestFlight](https://testflight.apple.com/join/LPVOyJZW).
